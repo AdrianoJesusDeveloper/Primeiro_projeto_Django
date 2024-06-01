@@ -1,0 +1,17 @@
+git config --global user.name 
+git config --global user.e-mail
+
+git config --global init.defaultBranch main
+git init 
+
+
+
+ssh-keygen
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCoXWcNcti4n0e0ZRZLK9KVbVniN0lwa2S6fNRXtxvqzNs3aA1mOMuDP0WflP7QFNkrVw7BNtCgbn8A4kuZe3/qhvMFFffoyQKfnBWd10M9toHbEKYovKIlswR8um8pLXCSvWHOhaP8jq5I7X3ID6i7PGwq1PyF65LUfhRKf4IS/rkCwBa6a5nSezFjFIK53hIK0lSX1jw8AOtzd1J9yrtV8mqPbTJrEnGHCiWQgrtdKjAN2z329QteLFJFikLh8E8UyYT0WVTZS8O1fi2y1Ir1DNKLTDAdE/K6l3aZ/totbvMp+SRYnlgdUi3ttKqLsNDkQikc0AUNxOw6cWj0uazuPWmv7WpVEhnTY68uoxJitWiUBwOMrlUnz6Si54woWws2usdzi8gE45DXP9D4upUSUULfjdvpQdKxHoRvM3NHQD95MvpKBz6PDq6Xs1sAD4dDI2FGkiXIsArg7rgWlU4eJFTZSXroYllq4LYjRcko9xTiBP25SZRurCNIyjeI9+U= adria@DESKTOP-JL7H6RE
+git remote add origin 
+git remote -v
+
+git push --set upstream
+
+git@github.com:AdrianoJesusDeveloper/Primeiro_projeto_Django.git
+git@github.com:AdrianoJesusDeveloper/Primeiro_projeto_Django.git
